@@ -1,4 +1,4 @@
-![logo] (
+![logo](https://github.com/DivyanshChaudharyk/DivyanshChaudharyk/blob/main/DIVYANSH%20CHAUDHARY.png)
 <h1 align="center">Hi 👋, I'm Divyansh Chaudhary</h1>
 <h3 align="center">Computer Science Student | Passionate about Coding & Open Source</h3>
 
